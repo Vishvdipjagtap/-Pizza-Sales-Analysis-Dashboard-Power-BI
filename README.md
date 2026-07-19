@@ -1,4 +1,15 @@
 # 🍕 Pizza Sales Analysis Dashboard | Power BI
+## 📷 Dashboard Preview
+
+### Dashboard - Page 1
+
+![Dashboard Page 1](Screenshot1.png)
+
+---
+
+### Dashboard - Page 2
+
+![Dashboard Page 2](Screenshot2.png)
 
 ## 📌 Project Overview
 
